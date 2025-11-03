@@ -1,4 +1,4 @@
-#Zepto Web Automation Testing using Selenium & Python
+# Zepto Web Automation Testing using Selenium & Python
 
 This project automates key user workflows on the Zepto grocery website using Selenium WebDriver, Python, and Pytest.
 It is designed using a Page Object Model (POM) framework for scalability and maintainability.
