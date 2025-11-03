@@ -1,0 +1,10 @@
+2025-11-02 22:42:56,835 - conftest - INFO - Launching Chrome Browser
+2025-11-02 22:43:34,557 - test_01_search_and_add - INFO - Opened base URL
+2025-11-02 22:43:49,879 - conftest - ERROR - Screenshot captured: reports\screenshots\test_search_and_add_20251102_224349.png
+2025-11-02 22:43:49,899 - conftest - INFO - Closing Chrome Browser
+2025-11-02 22:44:12,403 - conftest - INFO - Launching Chrome Browser
+2025-11-02 22:44:49,059 - conftest - ERROR - Screenshot captured: reports\screenshots\test_verify_cart_count_20251102_224448.png
+2025-11-02 22:44:49,072 - conftest - INFO - Closing Chrome Browser
+2025-11-02 22:45:22,506 - conftest - INFO - Launching Chrome Browser
+2025-11-02 22:45:43,439 - conftest - ERROR - Screenshot captured: reports\screenshots\test_search_and_add_20251102_224543.png
+2025-11-02 22:45:43,456 - conftest - INFO - Closing Chrome Browser
